@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>The P-Median problem, Mixed Integer Programming</description>
+	<configs>
+		<config category="opl" default="true" name="Basic Configuration">
+			<ref name="pmedian.dat" type="data">
+			</ref>
+			<ref name="pmedian.mod" type="model">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="Configuration 1">
+			<ref name="pmedian2.mod" type="model">
+			</ref>
+			<ref name="pmedian2.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

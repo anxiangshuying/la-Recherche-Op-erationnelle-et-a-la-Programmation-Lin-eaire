@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrateur
+ * Creation Date: 24 oct. 2018 at 15:23:09
+ *********************************************/
+
+ P=2;
+Customers={"Albert","Bob","Chris","Daniel"};
+Warehouses={"Santa Clara","San Jose","Berkeley"};
+Demand=[100,80,80,70];
+Distance=
+[[ 2 , 10 , 50 ],
+ [ 2, 10, 52 ],
+ [ 50, 60 , 3],
+ [ 40 , 60 , 1]];
+ Stocklimite=[500,200,250];
+ 

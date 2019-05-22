@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="Config test">
+			<ref name="Partition.mod" type="model">
+			</ref>
+			<ref name="Partition.ops" type="setting">
+			</ref>
+			<ref name="Partition.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
